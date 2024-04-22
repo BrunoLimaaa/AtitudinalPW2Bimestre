@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: antiquewhite;
+}
+#botao{
+    display: flex;
+    margin: 10%;
+    justify-content: center;
+   
+}
+.button{
+   
+    color: #4b114d;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+    border-radius: 50px;
+    width: 20%;
+    height: 10vh;
+    background: #00196d;
+}
